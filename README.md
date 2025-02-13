@@ -1,2 +1,2 @@
-# Clase-Inteligencia-Artificial
+# Curso-Inteligencia-Artificial
 Cuadernos y Proyectos de IA
